@@ -5,5 +5,5 @@ def test_1():
 
 def test_2():
     a = 1
-    b = 2
+    b = 3
     assert a != b
